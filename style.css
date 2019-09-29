@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+}
+header{ 
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    padding: 10px;
+    border: 1px snow;
+   vertical-align: middle;
+}   
+h3{
+    text-align: center;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+
+}
+section{
+    background-color: rgb(255, 255, 255);
+}
+aside {
+    background-color: rgb(255, 255, 255);
+}
+#container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#tags{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}   
+p{
+    background-color: rgb(255, 255, 255);
+    background-position: 
+    text-align: center;
+}   
+article{
+    background-color: gray;
+    background-position: 
+    width: 100%
+    padding:15px
+    color#ebebeb
+    font size: 18px
+    vertical-align: middle;
+    
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    padding: 10px;
+    border: 1px rgb(172, 170, 170);
+   vertical-align: middle;
+}   
